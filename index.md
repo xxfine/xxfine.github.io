@@ -1,5 +1,5 @@
 ---
-title: Hello World!
+title: Welcome to my blog
 ---
 
 ## Why Blog?
